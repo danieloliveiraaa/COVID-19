@@ -1,0 +1,130 @@
+body{
+	background-color:#25159e;
+}
+
+main{
+	padding: 5px 40px;
+	margin-top: 5px;
+	border-radius: 10px;
+	
+}
+
+article{
+	background-color:rgba(0,0,0,0.3);
+	border-radius: 10px;
+	color:#5cd668;
+	text-align:center;
+	font-family:Cinzel;
+	text-size:15px;
+	font-style:italic;
+}
+
+.titulo{
+	padding: 5px 40px;
+	margin-top: 5px;
+	border-radius: 10px;
+	color:#5cd668;
+	text-align:center;
+	font-family:Cinzel;
+	text-size:15px;
+	font-style:italic;
+}
+
+.div_tabela{
+	width: 100%;
+	text-align:center;
+	color:white;
+	font-family:Cinzel;
+	text-size:10px;
+}
+
+.div_tabela table{
+	text-align:center;
+	background: rgba(32, 179, 81, 0.8);
+	border-radius:50px;
+	padding: 10px;
+	margin: 0 auto;
+	width:95%;
+	text-size:40px;
+}
+
+.linkimagens{
+	text-align:center;
+	float:center;
+}
+
+.titulo_imagens{
+	background-color:(32, 179, 81, 0.1);
+	text-align:center;
+	color:#5cd668;
+	font-family:Cinzel;
+	border-radius: 10px;
+}
+
+
+
+
+.linkimagens1{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{	
+	color: white;
+    font-weight: 1rem;
+    font-size: 7px;
+    text-decoration: none;
+    background-color:rgba(0,0,0,0.3);
+	font-family:Cinzel;
+	font-style:italic;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{	
+	color: white;
+    font-weight: 1rem;
+    font-size: 7px;
+    text-decoration: none;
+    background-color:rgba(0,0,0,0.3);
+	font-family:Cinzel;
+	font-style:italic;
+	text-align:center;
+}

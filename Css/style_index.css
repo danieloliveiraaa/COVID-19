@@ -1,0 +1,161 @@
+/*Estilizando*/
+body{
+	background-position:center;
+	background-color:#25159e;
+}
+
+main{
+	background-color:rgba(0,0,0,0.3);
+	padding: 5px 40px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+
+.titulo{
+	text-align: center;
+	font-style:italic;
+	font-family:Cinzel;
+	color:#5cd668;
+}
+
+.subtitulo{
+	text-align: center;
+	font-style:italic;
+	font-family:Cinzel;
+	color:#5cd668;
+}
+
+.oquee{
+	text-align: left;
+	color:white;
+	font-family:Cinzel;
+}
+
+.corona{
+	font-size:30px;
+	color:#5cd668;
+}
+
+.video{
+	text-align:center;
+}
+
+.videotexto{
+	color:#f5493d;
+	font-size:20px;
+	font-family:Cinzel;
+	font-style:italic;
+	text-align:center;
+	
+}
+.textespalha{
+	color:#5cd668;
+	font-family:Cinzel;
+	text-align:center;
+}	
+
+.tosseimg{
+	text-align:right;
+}
+
+
+.lista_nao{
+	margin-left:25%;
+	margin-right:38%;
+	color: white;
+    width:50%;
+    font-size: 17px;
+	font-style:italic;
+	font-family:Cinzel;
+	text-align:center;
+	background-color:rgba(0,0,0,0.1);
+}
+
+.lista_or{
+	margin-left:25%;
+	margin-right:38%;
+	color: white;
+    width:50%;
+    font-size: 17px;
+	font-style:italic;
+	font-family:Cinzel;
+	text-align:center;
+	background-color:rgba(0,0,0,0.1);
+}
+
+.paginas ul li{
+	font-size:20px;
+	font-family:Cinzel;
+	color:#5cd668;
+	float:left;
+	width:500px;
+	margin-left:60px;
+	display:inline-block;
+	text-align:center;
+	line-height:40px;
+}
+.linkul{
+	color:#83fc95;
+}
+
+.paginas ul li:hover{
+	background-color:#0a7d42;
+	
+}
+	
+.rodape{	
+	color: white;
+    font-weight: 1rem;
+    font-size: 7px;
+    text-decoration: none;
+    background-color:rgba(0,0,0,0.3);
+	font-family:Cinzel;
+	font-style:italic;
+	text-align:center;
+}
+
+.formu{
+	background-color:rgba(0,0,0,0.3);
+	border-radius:20px;
+	color:white;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

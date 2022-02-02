@@ -1,0 +1,35 @@
+body{
+	background-color:#25159e;
+	background-position:center;
+}
+
+main{
+	background-color:rgba(0,0,0,0.3);
+	padding: 5px 40px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+
+
+.titulo{
+	font-family:Cinzel;
+	font-style:italic;
+	color:#5cd668;
+	text-align:center;
+}
+
+.sintomas{
+	margin-top:60px;
+	text-align:center;
+}
+
+.rodape{	
+	color: white;
+    font-weight: 1rem;
+    font-size: 7px;
+    text-decoration: none;
+    background-color:rgba(0,0,0,0.3);
+	font-family:Cinzel;
+	font-style:italic;
+	text-align:center;
+}
